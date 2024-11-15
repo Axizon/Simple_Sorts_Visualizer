@@ -1,7 +1,7 @@
 # Simple Sorts Visualizer
 
 ## Description
-This is a sorting demonstration developed in Java using the [Processing Sketchbook](https://processing.org/). It provides a visual presentation of the steps in bubble, selection, and insertion sort using randomly sized blocks. It's intended to help introductory students understand how these algorithms work.
+This is a sorting demonstration developed in Java using the [Processing Sketchbook](https://processing.org/). It provides a visual presentation of the steps in bubble, selection, and insertion sort using randomly sized blocks. It can help introductory students understand how these algorithms work.
 
 ## How to Use
 Press B to select bubble sort
